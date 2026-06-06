@@ -1,0 +1,10 @@
+openai
+gitpython
+faiss-cpu
+sentence-transformers
+langchain
+langchain-community
+beautifulsoup4
+requests
+tqdm
+python-dotenv
